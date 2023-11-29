@@ -39,7 +39,9 @@ CREATE TABLE `admins` (
 --
 
 INSERT INTO `admins` (`user_id`, `user_email`, `user_pass`) VALUES
-(1, 'kartik70rajesh', '1234');
+(1, 'Nihal', '1234');
+INSERT INTO `admins` (`user_id`, `user_email`, `user_pass`) VALUES
+(1, 'Sumeet', '8337');
 
 -- --------------------------------------------------------
 
@@ -82,9 +84,8 @@ CREATE TABLE `customers` (
 --
 
 INSERT INTO `customers` (`customer_id`, `customer_name`, `customer_email`, `customer_pass`, `customer_contact`, `customer_prn`, `amount`) VALUES
-(2, 'kartik', 'kartik70rajesh@yahoo.co.in', '1234', '9773300360', '115a1011', 9003),
-(3, 'ajit', 'ajit@xyz.com', '12345', '1234', '115a1003', 1476),
-(4, 'kumaran', 'kp@xyz.com', '123456', '98765', '115a1013', 10000);
+(2, 'Nihal', 'Nihal20@yahoo.co.in', '1234', '9773300360', '115a1011', 9003),
+(3, 'Sumeet', 'Sumeet83@xyz.com', '8337', '1234567890', '115a1012', 1476),
 
 -- --------------------------------------------------------
 
