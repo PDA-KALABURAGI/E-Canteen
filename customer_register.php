@@ -25,12 +25,11 @@ include("includes/db.php");
 			body, html {
 				    height: 100%;
 				    background-repeat: no-repeat;
-				background: rgb(185,210,224); /* Old browsers */
-				background: -moz-radial-gradient(center, ellipse cover,  rgba(185,210,224,1) 0%, rgba(187,214,228,1) 0%, rgba(186,211,225,1) 15%, rgba(186,211,225,1) 38%, rgba(169,199,215,1) 68%, rgba(169,199,215,1) 68%, rgba(169,199,215,1) 82%, rgba(158,191,208,1) 100%); /* FF3.6-15 */
-				background: -webkit-radial-gradient(center, ellipse cover,  rgba(185,210,224,1) 0%,rgba(187,214,228,1) 0%,rgba(186,211,225,1) 15%,rgba(186,211,225,1) 38%,rgba(169,199,215,1) 68%,rgba(169,199,215,1) 68%,rgba(169,199,215,1) 82%,rgba(158,191,208,1) 100%); /* Chrome10-25,Safari5.1-6 */
-				background: radial-gradient(ellipse at center,  rgba(185,210,224,1) 0%,rgba(187,214,228,1) 0%,rgba(186,211,225,1) 15%,rgba(186,211,225,1) 38%,rgba(169,199,215,1) 68%,rgba(169,199,215,1) 68%,rgba(169,199,215,1) 82%,rgba(158,191,208,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-				filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b9d2e0', endColorstr='#9ebfd0',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
+				background: rgb(185,210,224); 
+				background: -moz-radial-gradient(center, ellipse cover,  rgba(185,210,224,1) 0%, rgba(187,214,228,1) 0%, rgba(186,211,225,1) 15%, rgba(186,211,225,1) 38%, rgba(169,199,215,1) 68%, rgba(169,199,215,1) 68%, rgba(169,199,215,1) 82%, rgba(158,191,208,1) 100%); 
+				background: -webkit-radial-gradient(center, ellipse cover,  rgba(185,210,224,1) 0%,rgba(187,214,228,1) 0%,rgba(186,211,225,1) 15%,rgba(186,211,225,1) 38%,rgba(169,199,215,1) 68%,rgba(169,199,215,1) 68%,rgba(169,199,215,1) 82%,rgba(158,191,208,1) 100%); 
+				background: radial-gradient(ellipse at center,  rgba(185,210,224,1) 0%,rgba(187,214,228,1) 0%,rgba(186,211,225,1) 15%,rgba(186,211,225,1) 38%,rgba(169,199,215,1) 68%,rgba(169,199,215,1) 68%,rgba(169,199,215,1) 82%,rgba(158,191,208,1) 100%); 
+				filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b9d2e0', endColorstr='#9ebfd0',GradientType=1 ); 
 				}
 
 				.login_box{
@@ -98,16 +97,12 @@ include("includes/db.php");
 				  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25);
 				}
 
-				/*
-				 * Card component
-				 */
+				
 				.card {
-				    background-color: #FFFFFF;
-				    /* just in case there no content*/
+				    background-color: #FFFFFF;   
 				    padding: 1px 25px 30px;
 				    margin: 0 auto 25px;
-				    margin-top: 15%x;
-				    /* shadows and rounded borders */
+				    margin-top: 15%x;				   
 				    -moz-border-radius: 2px;
 				    -webkit-border-radius: 2px;
 				    border-radius: 2px;
@@ -126,9 +121,6 @@ include("includes/db.php");
 				    border-radius: 50%;
 				}
 
-				/*
-				 * Form styles
-				 */
 				.profile-name-card {
 				    font-size: 16px;
 				    font-weight: bold;
@@ -181,9 +173,9 @@ include("includes/db.php");
 				}
 
 				.btn.btn-signin {
-				    /*background-color: #4d90fe; */
+				    
 				    background-color: rgb(104, 145, 162);
-				   /* background-color: linear-gradient(rgb(104, 145, 162), rgb(12, 97, 33));*/
+				
 				    padding: 0px;
 				    font-weight: 700;
 				    font-size: 18px;
@@ -303,22 +295,13 @@ include("includes/db.php");
             </form><!-- /form -->
         </div><!-- /card-container -->
     </div><!-- /container -->	
-			
-				
-			
+
 			</div>
 		</div>
 		<!--Content wrapper ends-->
-		
-		
-		
-		
-		
 
-	
 	</div> 
 <!--Main Container ends here-->
-
 
 </body>
 </html>
@@ -332,15 +315,10 @@ include("includes/db.php");
 		$c_contact = $_POST['c_contact'];
 		$c_prn = $_POST['c_prn'];
 	
-		
-		
-		
 		 $insert_c = "INSERT into customers (customer_name,customer_email,customer_pass,customer_contact,customer_prn) VALUES ('$c_name','$c_email','$c_pass','$c_contact','$c_prn')";
 	
 		$run_c = mysqli_query($con, $insert_c); 
 
-
-		
 		if($run_c){
 		
 		$_SESSION['customer_email']=$c_email; 
@@ -351,11 +329,6 @@ include("includes/db.php");
 		}
 		
 	}
-
-
-
-
-
 ?>
 
 
