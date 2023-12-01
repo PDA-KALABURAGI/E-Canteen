@@ -24,24 +24,20 @@
     
 # Developed By Team 5
 
-| **Leader** | **Manager** |
-| :--------: | :---------: |
-| **Nihal S Pujari** | **Sumeet Kulkarni** |
-<br>
-# Members:
+## Members:
 ###
- | **Front-end Developer's<br>🔎** | **Back-end Developer's<br> 📊**|
- | :-------------: | :-------------: |
- | **Nihal S Pujari**  |  **Bhagyashree**   | **Meghanath**  |
- | **Sumeet kulkarni**  |  **Dhiraj** | **Nihal**  |
- | **Kaniyar** | **Omshree**  |
- | **Misba**  | **Sachin Kadli**  |
- | **Nandini Mungale**  | **Sumeet Kulkarni**  |
- | **Ramesh**  | **Trupti**  |
- | **Sainath** | **Veeresh** |
- | **Sanjana** | **vibha** |
- | **Sumeet Kanur** | **Yeshwant** |
- | **Vijayalaxmi** |  |
+| **Project Lead & Manager <br>** | **Front-end Developer's<br>🔎** | **Back-end Developer's<br> 📊**|
+| :-------------: | :-------------: | :-------------: |
+|  **Nihal S Pujari**  |  **Bhagyashree**   | **Meghanath**  |
+| **Sumeet kulkarni**  |  **Dhiraj** | **Nihal**  |
+|  | **Kaniyar** | **Omshree**  |
+|  | **Misba**  | **Sachin Kadli**  |
+|  | **Nandini Mungale**  | **Sumeet Kulkarni**  |
+|  | **Ramesh**  | **Trupti**  |
+|  | **Sainath** | **Veeresh** |
+|  | **Sanjana** | **vibha** |
+|  | **Sumeet Kanur** | **Yeshwant** |
+|  | **Vijayalaxmi** |  |
 <br>
 
 ## Glimpses of E-Canteen 🙈 :
