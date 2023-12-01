@@ -45,16 +45,16 @@
 
 
 - Register Page
- (https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170812.png)
+ ![register page](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170812.png)
 - Login Page
-  (https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170749.png)
+ ![login page] (https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170749.png)
 - Home Page
-  (https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170914.png)
+  ![home page](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170914.png)
   <br><br>(https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170857.png)
 - Admin Login page
-  (https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20171028.png)
+  ![admin login page](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20171028.png)
 - Admin page
-   (https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20171049.png)
+   ![admin page](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20171049.png)
 
   
 ## Target Customer
