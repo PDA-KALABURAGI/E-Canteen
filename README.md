@@ -1,5 +1,5 @@
 # E-Canteen
--This software system is a Canteen Management System for the students and faculty members of any college. This system will be designed to minimize the queues in the canteen and to reduce the wastage of accesses food. Make hassle –free payments using unique id provided to the students and the faculty.
+- This software system is a Canteen Management System for the students and faculty members of any college. This system will be designed to minimize the queues in the canteen and to reduce the wastage of accesses food. Make hassle –free payments using unique id provided to the students and the faculty.
 
 
 # Requirements
