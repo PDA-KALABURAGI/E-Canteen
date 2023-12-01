@@ -28,7 +28,7 @@
 | :--------: | :---------: |
 | **Nihal S Pujari** | **Sumeet Kulkarni** |
 <br>
-## Members:
+# Members:
 ###
  | **Front-end Developer's<br>🔎** | **Back-end Developer's<br> 📊**|
  | :-------------: | :-------------: |
