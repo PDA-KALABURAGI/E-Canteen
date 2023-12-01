@@ -19,7 +19,7 @@
 [![xampp Version](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.apachefriends.org/download.html)
 
 
-- **PHP**: [Official Website](https://www.apachefriends.org/download.html/)
+- **PHP 8.0.30**: [Official Website](https://www.apachefriends.org/download.html/)
 - **HTML,CSS,JS(Web Design).**<br>
     
 # Developed By Team 5
