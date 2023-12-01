@@ -35,7 +35,7 @@
 |  | **Nandini Mungale**  | **Sumeet Kulkarni**  |
 |  | **Ramesh**  | **Trupti**  |
 |  | **Sainath** | **Veeresh** |
-|  | **Sanjana** | **vibha** |
+|  | **Sanjana** | **Vibha** |
 |  | **Sumeet Kanur** | **Yeshwant** |
 |  | **Vijayalaxmi** |  |
 <br>
