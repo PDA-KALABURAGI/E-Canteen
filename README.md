@@ -43,18 +43,18 @@
 ## Glimpses of E-Canteen 🙈 :
 
 
-
 - Register Page
- ![register page](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170812.png)
+ ![home](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170812.png)
 - Login Page
- ![login page] (https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170749.png)
+ ![home](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170749.png)
 - Home Page
-  ![home page](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170914.png)
-  <br><br>(https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170857.png)
+ ![home](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170914.png)
+  <br><br>![home](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20170857.png)
 - Admin Login page
-  ![admin login page](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20171028.png)
+  ![admin](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20171028.png)
 - Admin page
-   ![admin page](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20171049.png)
+   ![admin](https://github.com/PDA-KALABURAGI/E-Canteen/blob/main/pics/Screenshot%202023-12-01%20171049.png)
+
 
   
 ## Target Customer
