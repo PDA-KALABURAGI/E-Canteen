@@ -23,7 +23,11 @@
 - **HTML,CSS,JS(Web Design).**<br>
     
 # Developed By Team 5
-
+###
+| **Leader** | **Manager** |
+| :--------: | :---------: |
+| **Nihal S Pujari** | **Sumeet Kulkarni** |
+<br>
 ## Members:
 ###
  | **Front-end Developer's<br>🔎** | **Back-end Developer's<br> 📊**|
